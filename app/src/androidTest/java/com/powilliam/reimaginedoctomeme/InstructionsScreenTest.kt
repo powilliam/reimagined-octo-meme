@@ -1,4 +1,4 @@
-package com.example.template
+package com.powilliam.reimaginedoctomeme
 
 import androidx.activity.ComponentActivity
 import androidx.compose.ui.test.assertCountEquals
@@ -7,8 +7,8 @@ import androidx.compose.ui.test.junit4.createAndroidComposeRule
 import androidx.compose.ui.test.onAllNodesWithTag
 import androidx.compose.ui.test.onNodeWithTag
 import androidx.compose.ui.test.onNodeWithText
-import com.example.template.instructions.InstructionsScreen
-import com.example.template.theming.ApplicationTheme
+import com.powilliam.reimaginedoctomeme.instructions.InstructionsScreen
+import com.powilliam.reimaginedoctomeme.theming.ApplicationTheme
 import org.junit.Rule
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.template.instructions
+package com.powilliam.reimaginedoctomeme.instructions
 
 import android.content.res.Configuration.UI_MODE_NIGHT_YES
 import androidx.compose.foundation.layout.Arrangement
@@ -21,7 +21,7 @@ import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.template.theming.ApplicationTheme
+import com.powilliam.reimaginedoctomeme.theming.ApplicationTheme
 
 private val instructions = listOf(
     "Edit rootProject.name on settings.gradle.kts",

@@ -1,4 +1,4 @@
-package com.example.template.navigation
+package com.powilliam.reimaginedoctomeme.navigation
 
 import androidx.navigation.NamedNavArgument
 

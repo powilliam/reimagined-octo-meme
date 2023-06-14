@@ -1,4 +1,4 @@
-package com.example.template
+package com.powilliam.reimaginedoctomeme
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

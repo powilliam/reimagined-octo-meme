@@ -6,13 +6,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.template"
-    compileSdk = 33
+    namespace = "com.powilliam.reimaginedoctomeme"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.template"
+        applicationId = "com.powilliam.reimaginedoctomeme"
         minSdk = 27
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 

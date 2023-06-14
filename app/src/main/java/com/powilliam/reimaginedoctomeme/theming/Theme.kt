@@ -1,4 +1,4 @@
-package com.example.template.theming
+package com.powilliam.reimaginedoctomeme.theming
 
 import android.content.Context
 import android.os.Build
