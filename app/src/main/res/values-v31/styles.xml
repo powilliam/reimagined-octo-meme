@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Template" parent="Theme.Material3.DynamicColors.DayNight">
+        <item name="android:navigationBarColor">?attr/colorSurface</item>
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightNavigationBar">?attr/isLightTheme</item>
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+    </style>
+</resources>
